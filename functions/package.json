@@ -18,7 +18,7 @@
   "homepage": "https://github.com/firebase/quickstart-js#readme",
   "devDependencies": {
     "typescript": "^5.1.6",
-    "vite": "^4.4.9"
+    "vite": "^7.1.5"
   },
   "scripts": {
     "dev": "cd public && vite",
@@ -26,6 +26,6 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "firebase": "^10.1.0"
+    "firebase": "^10.9.0"
   }
 }
