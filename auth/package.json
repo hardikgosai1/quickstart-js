@@ -20,7 +20,7 @@
     "@types/jsrsasign": "^10.5.8",
     "prettier": "^3.0.3",
     "typescript": "^5.1.6",
-    "vite": "^4.4.9"
+    "vite": "^6.4.2"
   },
   "scripts": {
     "dev": "vite",
@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "firebase": "^10.1.0",
-    "jsrsasign": "^10.8.6"
+    "jsrsasign": "^11.1.1"
   }
 }
